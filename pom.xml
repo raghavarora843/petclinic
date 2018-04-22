@@ -5,7 +5,7 @@
   <artifactId>petclinic</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Helloworldwebapp Maven Webapp</name>
+  <name>petclinic Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
 <dependency>
@@ -21,6 +21,6 @@
 </dependency>
   </dependencies>
   <build>
-    <finalName>Helloworldwebapp</finalName>
+    <finalName>petclinic</finalName>
   </build>
 </project>
